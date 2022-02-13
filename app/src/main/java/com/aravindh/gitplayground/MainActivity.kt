@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         println("This is for testing purpose...")
         println("This is for testing purpose...")
     }
