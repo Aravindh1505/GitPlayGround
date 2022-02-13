@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
+        println("This is for testing purpose...")
+        println("This is for testing purpose...")
     }
 }
